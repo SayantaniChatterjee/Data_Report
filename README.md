@@ -1,1 +1,1 @@
-# Google_Play_Store_Dynamics
+The Google Play Store dataset offers insights into mobile applications and user reviews. With app details like category, rating, and installation stats, along with sentiment analysis of user reviews, it provides valuable insights for app developers and marketers. Analyzed using SQL and Power BI, it aids in understanding app performance and user sentiments, supporting data-driven decisions in the mobile app industry.
